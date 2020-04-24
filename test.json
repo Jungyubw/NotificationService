@@ -1,0 +1,10 @@
+[{
+	"date" : "20200424T101324",
+	"message" : "TEST Message",
+	"id" : "12345"
+},
+{
+	"date" : "20200425T101324",
+	"message" : "TEST Message2",
+	"id" : "22345"
+}]
